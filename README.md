@@ -1,1 +1,1 @@
-# Quality-of-Wine
+# Winequality
